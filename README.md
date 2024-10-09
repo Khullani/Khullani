@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Khullani
-- 👀 I’m interested in the implications of Web3 for marketing.
-- 🌱 I’m currently learning more about the universe of decentralized applications. 
-- 💞️ I’m looking to collaborate on Web3 marketing projects. 
-- 📫 How to reach me 
+- 👀 I’m interested in AI Governance, Safety, Risk and Policy
+- 🌱 I’m currently learning more about the AI Safety Cases. 
+- 💞️ I’m looking to collaborate with institutes and companies working on AI Safety and Policy. 
+- 📫 How to reach me https://www.linkedin.com/in/khullani/
 
 <!---
 Khullani/Khullani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
